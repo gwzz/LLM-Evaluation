@@ -1,0 +1,6 @@
+prompt,qwen3_avg_time,qwen3_avg_throughput,qwen3_success_rate,qwen3-vllm_avg_time,qwen3-vllm_avg_throughput,qwen3-vllm_success_rate
+Please explain the basic concepts of machine learning,31.276569684346516,25.09866036852761,1.0,34.170713345209755,24.133726982386015,1.0
+Write a short story about artificial intelligence,14.013661940892538,28.115420627515576,1.0,15.426555633544922,28.154913102499627,1.0
+How to improve programming skills? Please provide specific suggestions,71.16412234306335,11.827120730994404,1.0,35.08816043535868,20.81423831490947,1.0
+Write a quicksort algorithm in Python,8.52470326423645,22.600982191950074,1.0,8.788310686747232,21.923060475912383,1.0
+Discuss the impact of climate change on the global economy,31.706270058949787,28.13323668604196,1.0,33.282972733179726,27.341307740003128,1.0

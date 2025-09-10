@@ -1,0 +1,32 @@
+# macOS
+# =========
+.DS_Store
+
+# IDEs
+# ----
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Jupyter Notebook
+# ----------------
+.ipynb_checkpoints
+
+# Environment
+# -----------
+.env
+.venv/
+env/
+venv/
+ENV/
+
+# Local data directories
+data/
+output/
+results/
+logs/
+
+# Exceptions (uncomment if you want to commit specific files)
+# !example_data.csv
